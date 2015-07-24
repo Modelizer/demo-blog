@@ -1,1 +1,1 @@
-## Synergy Blog Demo Project on Laravel Framework
+# Synergy blog demo project on laravel
