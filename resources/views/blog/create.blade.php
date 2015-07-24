@@ -20,11 +20,11 @@
 	<input type="hidden" value="{{ csrf_token() }}" name="_token" />
 	  
     <div class="form-group">
-      <label for="">title:</label>
+      <label for="">Title</label>
       <input type="text" class="form-control" id="title" name="title">
     </div>
     <div class="form-group">
-      <label for="description">Description:</label>
+      <label for="description">Description</label>
       <input type="text" class="form-control" id="description" name="description">
     </div>
 	  
